@@ -10,10 +10,6 @@ body {
   background: linear-gradient(pink, violet);
 }
 
-button {
-  font-size: 7px;
-}
-
 #main-content {
   position: relative;
   display: flex;
